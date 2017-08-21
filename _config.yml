@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "reresearch: hands on machine learning tutorials"
+title: "reresearch | hands on machine learning tutorials"
 email: info@reresearch.io
 description: >
   Familiarizing developers with recent machine learning
@@ -25,7 +25,7 @@ github_username:  reresearch
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
